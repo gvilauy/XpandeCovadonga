@@ -7,5 +7,14 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="XpandeCustomization" exported="" />
+    <orderEntry type="module" module-name="adempiere" exported="" />
+    <orderEntry type="module" module-name="XpandeCore" exported="" />
+    <orderEntry type="module" module-name="XpandeComercial" exported="" />
+    <orderEntry type="module" module-name="XpandeFinancial" exported="" />
+    <orderEntry type="module" module-name="XpandeRetail" exported="" />
+    <orderEntry type="module" module-name="XpandeCFE" exported="" />
+    <orderEntry type="module" module-name="XpandeSisteco" exported="" />
+    <orderEntry type="module" module-name="XpandeDibal" exported="" />
   </component>
 </module>
